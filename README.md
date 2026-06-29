@@ -2,6 +2,8 @@
 
 The fastest Vinted monitor on the market — completely free. Every new listing, delivered to your Discord in under a second.
 
+![Grabz Preview](assets/preview.gif)
+
 ## Features
 
 - **Real-time monitoring** — covers all of Europe and the USA, no item missed
